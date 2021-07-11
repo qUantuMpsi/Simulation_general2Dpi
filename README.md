@@ -1,4 +1,4 @@
-# Simulation_general2Dpi
+# simulation_general2Dpi
 This code simulates the more general case of 2Dpi, depending upon three parameters k1, k2, k3.
 
 Packages required:
